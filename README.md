@@ -1,2 +1,2 @@
-# microblog
-Microblog by me
+#Microblog
+microblog
